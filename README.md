@@ -2,7 +2,7 @@ Amazon Best Sellers Analysis with Pandas
 
 Objective
 Build a comprehensive data exploration and analysis pipeline for Amazon's best-selling books using Pandas.
-Project Description
+Project Description:-
 *This project likely involves working with a CSV dataset of Amazon’s bestselling books (spanning a decade, for instance) and performing an end-to-end data analytics workflow:
 
 1.Importing and Exploring Data
@@ -21,7 +21,7 @@ Apply Pandas (and possibly visualization libraries like Matplotlib or Seaborn) t
 4.Output & Reporting
 Give a csv file of top authors and average rating by genre.
 
-Key Skills Demonstrated
+Key Skills Demonstrated:-
 *Proficiency in data ingestion, cleaning, and preprocessing using Pandas
 *Strong EDA capabilities, including visualization and trend analysis
 *Experience in turning raw data into actionable, narrative-driven analysis
